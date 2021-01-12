@@ -2,7 +2,6 @@
 
 To import dependencies , use below pip commands ..
 
-pip install pypiwin32
 pip install PyAudio
 pip install pyttsx3
 pip install pyjokes
